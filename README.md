@@ -55,5 +55,6 @@ Agegnehu is actively expanding the architecture of **AGEGNEHU AI** to support fu
 
 ## ✉️ Contact & Partnership Inquiries
 For commercial licensing, enterprise deployment requests, corporate partnerships, or investment opportunities, please contact the Chief Executive directly via the official GitHub profile: **@agegnehu2**.
-
+## Email: agegnehushibiru5@gmail.com or agegnehushibiru7@gmail.com
+## Phone Number 📱 📱 📱 +251 910195166 //// +251 710190872
 > *"The best way to predict the future is to build it."* — Engineered with passion by Agegnehu.
