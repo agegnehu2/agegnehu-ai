@@ -48,6 +48,20 @@ While the underlying framework originates from open-source architectures, the sp
 * **Hosting & Scaling:** Vercel Corporate Edge Networks
 * **Styling Wrapper:** Tailwind CSS / Radix UI Icons
 
+Getting Started
+To get a local copy up and running, follow these simple steps:
+Clone the repository:
+git clone [https://github.com/agegnehu2/agegnehu-ai](https://github.com/agegnehu2/agegnehu-ai)
+Install dependencies:
+npm install
+Run the application:
+npm run dev
+Features
+Localized Intelligence: Designed for high-performance conversational AI infrastructure.
+Multi-Model Support: Seamlessly integrated with world-leading AI models.
+Responsive UI: Sleek, cross-platform interface built for lightning-fast workflows.
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 ### Future Horizons
 Agegnehu is actively expanding the architecture of **AGEGNEHU AI** to support full local voice synthesis (Speech-to-Text and Text-to-Speech) optimized for regional dialects, automated local payment processing APIs, and cross-platform native smartphone applications.
 
